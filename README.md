@@ -11,14 +11,15 @@ Written in **C (C11)** using **GTK 3**, it works on **Windows**, **macOS**, and 
 
 ## ✨ Features
 
-- 🔎 Search 20 popular recipe websites from a single input field  
-- 🌐 Site-specific parsers (C or Node.js) to extract links  
-- 🧵 Asynchronous downloading and responsive GTK UI  
-- 💡 Lightweight, fast, portable across Windows and macOS  
+- 🔎 Search 20 popular recipe websites from a single input field, including **AllRecipes, Epicurious, and Food Network**  
+- 🌐 Site-specific parsers (C or Node.js) to extract links efficiently  
+- 🧵 Asynchronous downloading and a responsive GTK UI  
+- 💡 Lightweight, fast, and fully **cross-platform**  
 - 🛠️ Automatic runtime checks for Node.js and required JS modules  
 - 📜 Polished appearance via GTK CSS styling  
 - 🖱️ Clicked recipe links open in the default browser  
-- 📚 Well-documented source code  
+- 📚 Well-documented source code for easy learning and extension  
+- 🍳 Ideal for developers and cooking enthusiasts looking for a versatile **recipe-finder, food-app, or recipe-locator**
 
 ---
 
