@@ -1,8 +1,8 @@
 # 🥘 Recipe Finder
 
-Recipe Finder is a cross-platform desktop application that lets users search recipes across 20 major cooking websites — all from one unified interface.
+Recipe Finder is a cross-platform **C/GTK desktop app** for finding recipes, kitchen recipes, and food recipes across 20 major cooking websites — all from one unified interface.  
 
-Built in **C (C11)** using **GTK 3**, the app uses **libcurl** for networking, **Gumbo** for HTML parsing, and optional **Node.js + Playwright** for JavaScript-heavy websites.
+Written in **C (C11)** using **GTK 3**, it works on **Windows**, **macOS**, and Linux, and is built with **libcurl** for networking, **Gumbo** for HTML parsing, and optional **Node.js + Playwright** support for JavaScript-heavy sites.
 
 > “Built as a hands-on C/GTK learning tool — not just to find recipes, but to cook up better code.”  
 > — John Mastronardo, August 2025
